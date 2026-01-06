@@ -3,8 +3,8 @@
 Personal portfolio website yang dibangun dengan pendekatan desain minimalis, profesional, dan modern. Proyek ini dirancang khusus untuk menampilkan profil sebagai **AI Engineer / Data Analyst**, mencakup detail pendidikan, keahlian teknis, dan proyek-proyek unggulan.
 
 ## 🚀 Live Demo
-> **Lihat Versi Live:** [[https://username.github.io/portfolio-marcelino/]([https://canetoad-marceline.github.io/TechWeb-port/]]
-*(Ganti URL dengan link hosting Anda nantinya)*](https://canetoad-marceline.github.io/TechWeb-port/)
+> **Lihat Versi Live:** https://canetoad-marceline.github.io/TechWeb-port/
+
 
 ---
 
